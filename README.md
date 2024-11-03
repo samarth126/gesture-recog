@@ -1,4 +1,12 @@
 # Sign-Language-Detection-Intelligent-Systems-6150
+
+### Group Memebers
+Samarth Bhole
+Khushi Kalathiya
+Katha Mehta
+Sourav Shetye
+Sanjana Bhanu Kocherla
+
 Estimate hand pose using MediaPipe (Python version).<br> This is a sample 
 program that recognizes hand signs and finger gestures with a simple MLP using the detected key points.
 # Requirements
